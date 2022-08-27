@@ -1,11 +1,9 @@
-## Oii, eu sou a Nicole👋
+## Oii, eu sou a Nicole ♥️
 
 
- 🌱 Atualmente estou cursando ensino técnico
+ 🌈 Atualmente estou cursando ensino técnico;
  
- 📫 Email: nicole.m.espindola@gmail.com
- 
- 😄 Ela/Dela
+ 🌈 Ela/Dela;
 
 ##
 
@@ -38,15 +36,3 @@
   ![Snake animation](https://github.com/Nicole-Marinho-Espindola/Nicole-Marinho-Espindola/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
- 
-##
-
-
-
-
-
-
-  
-
-  
