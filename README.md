@@ -21,7 +21,7 @@
   
   <a href="https://github.com/Nicole-Marinho-Espindola">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole-Marinho-Espindola&layout=compact&langs_count=7&theme=omni"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole-Marinho-Espindola&layout=compact&langs_count=7&theme=omni"/> -->
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicole-Marinho-Espindola&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   
