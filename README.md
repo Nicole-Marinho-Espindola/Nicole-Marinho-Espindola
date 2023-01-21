@@ -1,9 +1,9 @@
 ## Oii, eu sou a Nicole ♥️
 
 
- ✨ Atualmente estou cursando ensino técnico;
+ ✨ Atualmente estou cursando ensino técnico
  
- ✨ Ela/Dela;
+ ✨ Tentando ser uma futura desenvolvedora front-end!
 
 ##
 
