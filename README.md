@@ -1,4 +1,4 @@
-<img width="76%" src="https://i.pinimg.com/originals/d1/6a/3b/d16a3bb1c720b7fb4dd3dc95b6baf87f.jpg"/>
+<img width="100%" src="https://i.pinimg.com/originals/d1/6a/3b/d16a3bb1c720b7fb4dd3dc95b6baf87f.jpg"/>
 
 ## Oii, eu sou a Nicole ♥️
 
