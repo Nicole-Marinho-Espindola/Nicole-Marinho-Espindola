@@ -1,3 +1,5 @@
+<img width="76%" src="https://i.pinimg.com/originals/d1/6a/3b/d16a3bb1c720b7fb4dd3dc95b6baf87f.jpg"/>
+
 ## Oii, eu sou a Nicole ♥️
 
 
@@ -32,4 +34,5 @@
     <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />      
+</div>
           
