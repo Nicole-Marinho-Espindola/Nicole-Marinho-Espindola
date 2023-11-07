@@ -1,11 +1,11 @@
 <img width="100%" src="https://i.pinimg.com/originals/d1/6a/3b/d16a3bb1c720b7fb4dd3dc95b6baf87f.jpg"/>
 
-## Oii, eu sou a Nicole ♥️
+## Hey there, I´m Nicole ♥️
 
 
- ✨ Atualmente estou cursando ensino técnico
+ ✨ Always learning new skils
  
- ✨ Tentando ser uma futura desenvolvedora front-end!
+ ✨ Trying to be a front-end dev!
 
 ##
 
@@ -31,8 +31,10 @@
 <div>
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+    <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />      
+    <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
+          
 </div>
           
