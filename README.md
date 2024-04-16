@@ -5,7 +5,9 @@
 
  ✨ Always learning new skills
  
- ✨ Trying to be a front-end dev!
+ ✨ Trying to be a front-end dev
+
+ ✨ Currently learning React
 
 ##
 <div>
