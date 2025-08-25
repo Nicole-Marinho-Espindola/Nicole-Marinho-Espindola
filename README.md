@@ -7,7 +7,7 @@
  
  ✨ Trying to be a front-end dev
 
- ✨ Currently learning React
+ ✨ Currently learning React Native
 
 ##
 <div>
