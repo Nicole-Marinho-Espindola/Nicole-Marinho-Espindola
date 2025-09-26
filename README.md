@@ -2,8 +2,6 @@
 
 ## Hey there, I´m Nicole ♥️
 
-
- ✨ Always learning new skills
  
  ✨ Trying to be a front-end dev
 
