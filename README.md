@@ -3,7 +3,7 @@
 ## Hey there, I´m Nicole ♥️
 
  
- ✨ Trying to be a front-end dev
+ ✨ Front-end dev!
 
  ✨ Currently learning React Native
 
