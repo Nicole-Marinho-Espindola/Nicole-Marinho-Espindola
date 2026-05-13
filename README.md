@@ -3,9 +3,7 @@
 ## Hey there, I´m Nicole ♥️
 
  
- ✨ Front-end dev!
-
- ✨ Currently learning React Native
+ ✨ Frontend Developer focused on React, TypeScript and Azure Cloud solutions.
 
 <div>
    <a href="https://www.instagram.com/_nicoleesp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
