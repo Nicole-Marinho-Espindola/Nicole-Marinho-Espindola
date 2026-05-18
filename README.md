@@ -22,6 +22,7 @@
     <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="center" alt="Vue" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
     <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+    <img align="center" alt="Azure DevOps" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
           
 </div>
           
